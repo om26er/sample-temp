@@ -1,0 +1,10 @@
+io.crossbar.autobahn.wamp
+io.crossbar.autobahn.wamp.auth
+io.crossbar.autobahn.wamp.exceptions
+io.crossbar.autobahn.wamp.interfaces
+io.crossbar.autobahn.wamp.messages
+io.crossbar.autobahn.wamp.requests
+io.crossbar.autobahn.wamp.serializers
+io.crossbar.autobahn.wamp.transports
+io.crossbar.autobahn.wamp.types
+io.crossbar.autobahn.wamp.utils
